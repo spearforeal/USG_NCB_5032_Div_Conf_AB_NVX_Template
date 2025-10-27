@@ -20,7 +20,7 @@
         "PMRoutingHeader2":["Outputs"],
         "RoomModeBtn1Label":["Separate"],
         "RoomModeBtn2Label":["Combine"],
-        "RoomModeInstructions":["Matt, we need instructions here. HELP!"]
+        "RoomModeInstructions":["Matt, we need instructions here. HELP!"],
 
         "ModeNames": [
             "Routing",
@@ -67,7 +67,7 @@
             "Source 19",
             "Source 20"
         ],
-        "DetinationNames": [
+        "DestinationNames": [
             "Output 1",
             "Audio",
             "Output 3",
