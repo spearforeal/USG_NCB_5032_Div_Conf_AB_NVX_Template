@@ -30,17 +30,11 @@ function SetRoomMode()
 		Combined_fb = 1;
 		Separated_fb = 0;
 	}
-	if(mode = 0)
+	else
 	{
 		Combined_fb = 0;
 		Separated_fb = 1;
 	}
-	else
-	{
-		Combined_fb = 0;
-		Separated_fb = 0;
-	}
-	
 }
 push Separate
 {
@@ -113,13 +107,11 @@ push Room_A_Shutdown
 push Room_AB_Shutdown
 {
 	pulse(pulseLength, Room_AB_Shutdown_pulse);
-	mode = 0;
 	SetRoomMode();
 	
 }
 function Main()
 {
 	WaitForInitializationComplete();
-	mode = 0;
 	SetRoomMode();
 }
