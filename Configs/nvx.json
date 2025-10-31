@@ -7,6 +7,23 @@
         "Encoder05Address": ["239.8.0.32"],
         "Encoder06Address": ["239.8.0.40"],
         "Encoder07Address": ["239.8.0.48"],
-        "Encoder08Address": ["239.8.0.56"]
+        "Encoder08Address": ["239.8.0.56"],
+        "Encoder09Address": ["239.8.0.56"],
+        "Encoder10Address": ["239.8.0.56"],
+        "Encoder11Address": ["239.8.0.56"],
+        "Encoder12Address": ["239.8.0.56"],
+        "Encoder13Address": ["239.8.0.56"],
+        "Encoder14Address": ["239.8.0.56"],
+        "Encoder15Address": ["239.8.0.56"],
+        "Encoder16Address": ["239.8.0.56"],
+        "Encoder17Address": ["239.8.0.56"],
+        "Encoder18Address": ["239.8.0.56"],
+        "Encoder19Address": ["239.8.0.56"],
+        "Encoder20Address": ["239.8.0.56"],
+        "Encoder21Address": ["239.8.0.56"],
+        "Encoder22Address": ["239.8.0.56"],
+        "Encoder23Address": ["239.8.0.56"],
+        "Encoder24Address": ["239.8.0.56"],
+        "Encoder25Address": ["239.8.0.56"]
     }
 }
