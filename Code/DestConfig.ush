@@ -27,7 +27,7 @@
   OutputList2SigType1=Analog
   ParamCue1=[Reference Name]
   MinVariableInputs=1
-  MaxVariableInputs=10
+  MaxVariableInputs=20
   MinVariableInputsList2=0
   MaxVariableInputsList2=0
   MinVariableOutputs=0
