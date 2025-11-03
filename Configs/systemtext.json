@@ -65,19 +65,35 @@
             "Source 17",
             "Source 18",
             "Source 19",
-            "Source 20"
+            "Source 20",
+            "Source 21",
+            "Source 22",
+            "Source 23",
+            "Source 24",
+            "Source 25"
         ],
         "DestinationNames": [
-            "Output 1",
-            "Audio",
-            "Output 3",
-            "Output 4",
-            "Output 5",
-            "Output 6",
-            "Output 7",
-            "Output 8",
-            "Output 9",
-            "Output 10"
+            "Audio1",
+            "MediaPort1",
+            "MediaPort2",
+            "Spare",
+            "Audio2",
+            "MediaPort3",
+            "MediaPort4",
+            "Spare",
+            "WP1Input1",
+            "WP1Input2",
+            "WP1Input3",
+            "WP1Input4",
+            "WP2Input1",
+            "WP2Input2",
+            "WP2Input3",
+            "WP2Input4",
+            "Display1",
+            "Display2",
+            "Projector",
+            ""
+
         ],
 
         "DisplayNames":[
