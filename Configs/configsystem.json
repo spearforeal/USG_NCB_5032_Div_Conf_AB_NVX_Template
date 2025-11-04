@@ -1,6 +1,6 @@
 {
     "SystemConfig": {   
-        "SystemName": ["NCB_RM_400"],
+        "SystemName": ["NCB_Divisible_Conf_4115"],
         "CustomerNumber": [
             "3248"
         ],
@@ -8,7 +8,7 @@
             "59288311"
         ],
         "AutoshutdownEnable":["True"],
-        "DSP01IpAddress":["10.174.132.39"],
+        "DSP01IpAddress":["10.60.4.23"],
         "PasswordInUse":["false"],
         "PasswordOnMode7":[
             "True"
@@ -19,21 +19,21 @@
         "USBSwitcherPassword": [""],
         "USBSwitcherDebugname": [""],
         "USBSwitcherPortnumber": [2234],
-        "Camera1IpAddress":["192.168.1.30"],
-        "Camera1UserName":["Admin"],
-        "Camera1Password":["Password"],
-        "Camera2IpAddress":["192.168.1.30"],
-        "Camera2UserName":["Admin"],
-        "Camera2Password":["Password"],
+        "Camera1IpAddress":["10.60.4.45"],
+        "Camera1UserName":["admin"],
+        "Camera1Password":["8012662428"],
+        "Camera2IpAddress":["10.60.4.46"],
+        "Camera2UserName":["admin"],
+        "Camera2Password":["8012662428"],
         "Camera3IpAddress":["192.168.1.30"],
         "Camera3UserName":["Admin"],
         "Camera3Password":["Password"],
-        "WindowProc1Hostname":["10.174.132.220"],
+        "WindowProc1Hostname":["10.60.4.218"],
         "WindowProc1Username":["admin"],
         "WindowProc1Password":["8012662428"],
         "WindowProc1Debugname":["MGP 641 xi"],
         "WindowProc1Portnumber":[22023],
-        "WindowProc2Hostname":["10.174.132.220"],
+        "WindowProc2Hostname":["10.60.4.219"],
         "WindowProc2Username":["admin"],
         "WindowProc2Password":["8012662428"],
         "WindowProc2Debugname":["MGP 641 xi"],
