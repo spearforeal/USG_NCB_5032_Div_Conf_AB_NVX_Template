@@ -109,9 +109,9 @@
             "Laptop"
         ],
         "DisplayIsProjector":[
-            "True",
+            "false",
             "False",
-            "False",
+            "true",
             "False",
             "False",
             "False",
