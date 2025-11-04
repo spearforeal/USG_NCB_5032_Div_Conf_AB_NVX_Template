@@ -131,7 +131,17 @@
             "Audio Control 7",
             "Audio Control 8",
             "Audio Control 9",
-            "Audio Control 10"
+            "Audio Control 10",
+            "Audio Control 11",
+            "Audio Control 12",
+            "Audio Control 13",
+            "Audio Control 14",
+            "Audio Control 15",
+            "Audio Control 16",
+            "Audio Control 17",
+            "Audio Control 18",
+            "Audio Control 19",
+            "Audio Control 20"
         ],
         "MicControlNames":[
             "Privacy",
@@ -143,7 +153,17 @@
             "Mic Control 7",
             "Mic Control 8",
             "Mic Control 9",
-            "Mic Control 10"
+            "Mic Control 10",
+            "Mic Control 11",
+            "Mic Control 12",
+            "Mic Control 13",
+            "Mic Control 14",
+            "Mic Control 15",
+            "Mic Control 16",
+            "Mic Control 17",
+            "Mic Control 18",
+            "Mic Control 19",
+            "Mic Control 20"
         ],
 		"LightingPresetNames":
 		[
