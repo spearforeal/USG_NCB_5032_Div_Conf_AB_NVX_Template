@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=Div_Conf_AB_NVX_Template_XPanel_[AMODE]PresetManager_PMSourceList.ced
 Hint=PMSourceList (Smart Object ID=36)
-Code=36
+Code=37
 SGControlType=Subpage Reference List Vertical
 SGControlName=PMSourceList
 GUID=66D5A92A-6FCC-419D-B561-1D2FC544D5E3
@@ -776,14 +776,14 @@ OutputList3SigType62=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=36
-CedH=36
+Pp1=37
+CedH=37
 SmartObjId=36d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=36
+H=37
 Tp=1
 HD=TRUE
 DV=36d
@@ -796,7 +796,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=36
+H=37
 Name=Div_Conf_AB_NVX_Template_XPanel_[AMODE]PresetManager_PMSourceList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
