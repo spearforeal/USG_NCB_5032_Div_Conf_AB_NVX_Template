@@ -92460,6 +92460,7 @@ CF=2
 n1I=18
 n1O=2
 mI=18
+I1=149
 I3=358
 I4=4105
 I5=6276
@@ -92478,7 +92479,7 @@ I17=6830
 I18=7961
 mO=2
 tO=2
-O1=11
+O1=1795
 mP=18
 P1=
 P2=\xA5\x06\x85\x01\xDF\xF8
@@ -98992,7 +98993,7 @@ O2=151
 O3=340
 mP=3
 P1=Combined
-P2=Ceiling Mics
+P2=Privacy
 P3=Speakers
 ]
 [
@@ -118269,6 +118270,7 @@ mI=3
 I1=1787
 mO=2
 tO=2
+O1=380
 mP=3
 P1=
 P2=
@@ -118291,6 +118293,7 @@ mI=3
 I1=1795
 mO=2
 tO=2
+O1=149
 mP=3
 P1=
 P2=
@@ -121768,8 +121771,8 @@ GrpStI4015=4
 GrpStI4019=6
 GrpStI4030=4
 GrpStI4032=6
-GrpStI4043=4
-GrpStI4045=6
+GrpStI4043=3
+GrpStI4045=5
 NGrpStO=4045
 GrpStO11=4
 GrpStO2012=6
@@ -130665,6 +130668,7 @@ CF=2
 n1I=18
 n1O=2
 mI=18
+I1=380
 I3=1790
 I4=1791
 I5=1792
@@ -130683,7 +130687,7 @@ I17=8079
 I18=8080
 mO=2
 tO=2
-O1=11
+O1=1787
 mP=18
 P1=
 P2=\xA5\x06\x85\x01\xDF\xF8
@@ -161019,6 +161023,12 @@ SgTp=4
 ]
 [
 ObjTp=Sg
+H=149
+Nm=[RS232][NIOX][01]Rx$
+SgTp=4
+]
+[
+ObjTp=Sg
 H=150
 Nm=[PROJ][01][POWER]Off_sp
 ]
@@ -162292,6 +162302,12 @@ Nm=[TP][01]ProgramCtrl_fb
 ObjTp=Sg
 H=379
 Nm=[SYS]Config_btn
+]
+[
+ObjTp=Sg
+H=380
+Nm=[RS232][NIOX][02]Rx$
+SgTp=4
 ]
 [
 ObjTp=Sg
